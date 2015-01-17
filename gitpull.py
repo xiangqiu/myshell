@@ -2,4 +2,4 @@
 import os
 
 os.chdir('/home/wwwroot/sharpmake')
-os.system("git pull"
+os.system("git pull")
